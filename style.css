@@ -1,0 +1,57 @@
+.section-content {
+    padding-left: 1.5em;
+}
+
+.q-a {
+    margin-top: 0;
+	margin-bottom: 0.0em;
+}
+
+.center {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+	margin:20px;
+    /*background-color:#000000;*/
+	background: #334a4a;
+	background: linear-gradient(45deg, #334a4a 64%, #171717 100%);
+}
+
+details {
+    color:burlywood;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+h4 {
+    color: #ffffff;
+}
+
+p {
+    color:lightgreen;
+}
+
+a {
+    color:#00b3ff;
+}
+
+ul {
+	color:lightgreen;
+}
+
+li {
+    color:greenyellow;
+}
